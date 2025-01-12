@@ -1,0 +1,43 @@
+{
+  "appName": "Kalinga Rural Bank",
+  "dashboard": "Dashboard",
+  "learning": "Learning",
+  "budgeting": "Budgeting",
+  "mentorship": "Mentorship",
+  "investments": "Investments",
+  "govtSchemes": "Government Schemes",
+  
+  "balance": "Balance",
+  "currentBalance": "Current Balance",
+  "monthlyGrowth": "Monthly Growth",
+  "balanceOverview": "Balance Overview",
+  "spendingDistribution": "Spending Distribution",
+  "recentTransactions": "Recent Transactions",
+  "groceries": "Groceries",
+  "utilities": "Utilities",
+  "savings": "Savings",
+  "education": "Education",
+  "salaryDeposit": "Salary Deposit",
+
+  "notifications": "Notifications",
+  "language": "Language",
+  "security": "Security",
+  "help": "Help & Support",
+
+  "pmayg": "Pradhan Mantri Awaas Yojana - Gramin",
+  "pmaygDesc": "Housing scheme for rural areas",
+  "mmsy": "Mission Shakti",
+  "mmsyDesc": "Women empowerment scheme through SHGs",
+  "bsky": "Biju Swasthya Kalyan Yojana",
+  "bskyDesc": "Health insurance scheme for Odisha residents",
+  "kalia": "KALIA Scheme",
+  "kaliaDesc": "Support for farmers and landless agricultural households",
+  "pmkvy": "Pradhan Mantri Kaushal Vikas Yojana",
+  "pmkvyDesc": "Skill development training program",
+  "mudra": "Pradhan Mantri MUDRA Yojana",
+  "mudraDesc": "Financial support for small businesses",
+  
+  "central": "Central Government",
+  "state": "State Government",
+  "learnMore": "Learn More"
+}
